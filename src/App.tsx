@@ -6,6 +6,8 @@ import Profile from './components/Profile/Profile';
 import Dialogs from './components/Dialogs/Dialogs';
 import {BrowserRouter, Route} from 'react-router-dom';
 
+
+// тест
 const App = (props: any) => {
     return (
         <BrowserRouter>
